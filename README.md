@@ -1,6 +1,7 @@
 ## Hi I'm Chayasis Gesornmart (Chaiyo)
 - currently: IT student at King Mongkut’s University of Technology Thonburi (KMUTT)
-  My currently learning :
+
+# My currently learning :
 - HTML
 - CSS
 - Javascipt
