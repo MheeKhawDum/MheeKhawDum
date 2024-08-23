@@ -11,9 +11,7 @@
 </div>
 
 -  My information :
-    - 🌱 currently University : King Mongkut’s University of Technology Thonburi (KMUTT)
-      - 👯 Faculty : School of Information Technology (SIT)
-      - 🤔 Major : Information Technology (IT)
+    - 🌱 currently : IT student at King Mongkut’s University of Technology Thonburi (KMUTT)
     - 💬 Ask me about ...
     - 📫 How to reach me: ...
     - 😄 Pronouns: ...
