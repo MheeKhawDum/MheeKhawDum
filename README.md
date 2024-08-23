@@ -18,3 +18,6 @@ I’m currently focused on becoming a Frontend Developer and plan to expand my s
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
+
+### My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
