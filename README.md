@@ -1,6 +1,6 @@
 ## Hi I'm Chayasis Gesornmart.
 You can call me Chaiyo.
-  - currently: IT student at King Mongkut’s University of Technology Thonburi (KMUTT)
+- currently: IT student at King Mongkut’s University of Technology Thonburi (KMUTT)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
