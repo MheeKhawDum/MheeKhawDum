@@ -11,7 +11,6 @@
 </div>
 
 -  My information :
-
   - 🌱 I’m currently University : King Mongkut’s University of Technology Thonburi (KMUTT)
   - 👯 I’m looking to collaborate on ...
   - 🤔 I’m looking for help with ...
