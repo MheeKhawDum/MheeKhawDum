@@ -6,11 +6,7 @@
   - Javascipt
   - Java
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
--  My information :
+### About ME :
     - 🌱 currently : IT student at King Mongkut’s University of Technology Thonburi (KMUTT)
     - 💬 Ask me about ...
     - 📫 How to reach me: ...
