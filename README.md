@@ -1,11 +1,11 @@
 <h1>Hi I'm Chayasis Gesornmart (Chaiyo)</h1> 
 - currently: IT student at King Mongkut’s University of Technology Thonburi (KMUTT)
 
-  My currently learning :
-- HTML
-- CSS
-- Javascipt
-- Java
+- My currently learning :
+  - HTML
+  - CSS
+  - Javascipt
+  - Java
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
