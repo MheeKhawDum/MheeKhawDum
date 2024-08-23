@@ -20,23 +20,8 @@ I’m currently focused on becoming a Frontend Developer and plan to expand my s
 </div>
 
 ### My Stats :
-<h2>My Stats :</h2>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MheeKhawDum&layout=compact&theme=radical)
 
-<div style="display: flex; justify-content: space-between;">
-  <!-- Total Contributions and Current Streak -->
-  <div style="flex: 1; margin-right: 10px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=dark&hide_border=true" alt="streak stats"/>
-  </div>
-  
-  <!-- Most Used Languages -->
-  <div style="flex: 1; margin-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages"/>
-  </div>
-</div>
 
-<!-- Custom GitHub Stats -->
-<div style="margin-top: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</div>
 
 
