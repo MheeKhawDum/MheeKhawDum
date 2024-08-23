@@ -9,6 +9,7 @@ I’m currently focused on becoming a Frontend Developer and plan to expand my s
     - Javascipt
     - Java
     - MySQL
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MheeKhawDum&layout=compact&theme=radical)
 ### Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -19,8 +20,6 @@ I’m currently focused on becoming a Frontend Developer and plan to expand my s
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
 
-### Learned :
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MheeKhawDum&layout=compact&theme=radical)
 
 
 
