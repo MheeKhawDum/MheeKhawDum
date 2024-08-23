@@ -20,7 +20,23 @@ I’m currently focused on becoming a Frontend Developer and plan to expand my s
 </div>
 
 ### My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MheeKhawDum&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MheeKhawDum&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-![Chaiyo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MheeKhawDum&show_icons=true&theme=radical)
+<h2>My Stats :</h2>
+
+<div style="display: flex; justify-content: space-between;">
+  <!-- Total Contributions and Current Streak -->
+  <div style="flex: 1; margin-right: 10px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=dark&hide_border=true" alt="streak stats"/>
+  </div>
+  
+  <!-- Most Used Languages -->
+  <div style="flex: 1; margin-right: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages"/>
+  </div>
+</div>
+
+<!-- Custom GitHub Stats -->
+<div style="margin-top: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</div>
+
 
